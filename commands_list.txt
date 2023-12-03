@@ -1,0 +1,3 @@
+git branch {{branch name}} создать ветку
+git checkout {{branch name}} переключится на ветку
+git merge {{branch name}} влить в текущую ветку указанную ветку
