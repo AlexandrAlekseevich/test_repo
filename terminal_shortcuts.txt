@@ -1,0 +1,5 @@
+Ctrl ] {{char}} 		find char ->
+Ctrl Alt {{char}} 		find char <-
+
+set -o vi 				Редактирование в режиме Vi. Вход в командный режим - esc.
+set -o emacs 			Стандартный режим редактирования в bash.
